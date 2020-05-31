@@ -1,0 +1,13 @@
+
+
+
+20200531
+SASSを導入して、自動コンパイルの仕組みを作った。
+npx gulp をコマンドで実行すると自動でコンパイルモードになる。
+
+参考URL(絶対つまずかないGulp 4入門(2019年版)インストールとSassを使うまでの手順)
+https://ics.media/entry/3290/
+
+次回はこの記事を読み進める
+参考URL(初めの一歩、Homebrewの導入【WEBデザイナーのためのMac強化計画 #1】)
+https://agrius.net/entry/homebrew-introduction/
